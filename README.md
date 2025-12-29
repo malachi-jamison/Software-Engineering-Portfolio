@@ -3,7 +3,7 @@
 ## Executive Summary
 I am CPT (P) Malachi Jamison. While my military career began in Logistics (Transportation) after commissioning from Morgan State University, my professional trajectory has evolved toward Network Systems Engineering.
 
-Leveraging my off-duty hours as a Lieutenant and Captain, I earned a Master’s Degree in Information Technology (Specialization: Software Engineering). This academic rigor, combined with practical experience in Full-Stack Development and Product Strategy, has prepared me to transition into the FA26A career field. My goal is to bridge the gap between operational Army requirements and modern technical implementation.
+Leveraging my off duty hours as a Lieutenant and Captain, I earned a Master’s Degree in Information Technology (Specialization: Software Engineering). This academic rigor, combined with practical experience in Full Stack Development and Product Strategy, has prepared me to transition into the FA26A career field. My goal is to bridge the gap between operational Army requirements and modern technical implementation.
 
 ---
 
