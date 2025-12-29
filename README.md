@@ -10,7 +10,7 @@ Leveraging my off-duty hours as a Lieutenant and Captain, I earned a Master’s 
 ## 🛠️ Project 1: Weather API Integration (Engineering)
 **Role:** Lead Developer
 * **Focus:** Demonstrates technical proficiency in Java/Spring Boot and RESTful API consumption.
-* **Key Tech:** Java, MySQL, OpenWeather REST API.
+* **Key Tech:** Java, MySQL,Spring Boot
 * [Link to folder /weather-api-app](https://github.com/malachi-jamison/Software-Engineering-Portfolio/tree/master/01_Weather-API-App)
 
 ## 📋 Project 2: Level-Up (Product Management & Strategy)
