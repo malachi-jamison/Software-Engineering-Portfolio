@@ -11,19 +11,19 @@ Leveraging my off-duty hours as a Lieutenant and Captain, I earned a Master’s 
 **Role:** Lead Developer
 * **Focus:** Demonstrates technical proficiency in Java/Spring Boot and RESTful API consumption.
 * **Key Tech:** Java, MySQL, OpenWeather REST API.
-* [Link to folder /weather-api-app]
+* [Link to folder /weather-api-app](https://github.com/malachi-jamison/Software-Engineering-Portfolio/tree/master/01_Weather-API-App)
 
 ## 📋 Project 2: Level-Up (Product Management & Strategy)
 **Role:** Product Manager
 * **Focus:** Strategy and MVP planning for a "Digital Continuity" application to solve Army AAR knowledge loss.
 * **Deliverables:** RICE Framework Analysis, User Personas, Feature Roadmap.
-* [Link to folder /Level-Up]
+* [Link to folder /Level-Up](https://github.com/malachi-jamison/Software-Engineering-Portfolio/tree/master/02_Level-Up)
 
 ## 🧠 Project 3: CogniOpen (UX Design & Technical Writing)
 **Role:** Lead UI/UX Designer / Technical Writer
 * **Focus:** Graduate Capstone project for cognitive impairment assistance.
 * **Deliverables:** Software Requirements Specification (SRS), Final Test Report, User Guide.
-* [Link to folder /CogniOpen]
+* [Link to folder /CogniOpen](https://github.com/malachi-jamison/Software-Engineering-Portfolio/tree/master/03_CogniOpen)
 
 
 ## 🛠️ Technical Proficiencies & Certifications
